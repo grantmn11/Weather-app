@@ -1,2 +1,3 @@
-//wrap it in a form tag for the inputs
-add event listener to the form 'search' handleGetData
+Check for weather in your area.
+
+Use the search bar and check for weather in your city.
