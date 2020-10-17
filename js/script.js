@@ -42,7 +42,7 @@ function render(){
     $temp.text('The Temperature is: ' + weatherData.main.temp)
     $humidity.text('UV index: ' + weatherData.main.humidity)
     $pressure.text('The pressure: ' + weatherData.main.pressure)
-    
+
 
 }
 
