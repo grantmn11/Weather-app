@@ -1,6 +1,6 @@
 
 // const and variables
-const API_KEY = '97483688dedf46a302f696b2b812060b';
+const API_KEY = '';
 const BASE_URL = 'https://api.openweathermap.org/data/2.5/weather?q=';
 //const redirect;
 //insert a link to ao new page or a picture for the error
